@@ -1,0 +1,15 @@
+Source: staticfarm-apache-handlers
+Section: utils
+Priority: optional
+Maintainer: Paul Buetow <paul@buetow.org>
+Build-Depends: 
+Standards-Version: 3.9.2
+Homepage: http://github.com/rantanplan/staticfarm-apache-handlers
+Vcs-Git: https://github.com/rantanplan/staticfarm-apache-handlers
+Vcs-Browser: https://github.com/rantanplan/staticfarm-apache-handlers
+
+Package: staticfarm-apache-handlers
+Architecture: all
+Depends: libapache2-mod-perl2,libjson-perl,libfile-mimeinfo-perl
+Description: Apache Handlers for a Static Content Farm
+ This are just mod_perl2 Handlers for a  Static Content Farm.

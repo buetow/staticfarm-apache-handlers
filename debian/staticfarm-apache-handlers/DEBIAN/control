@@ -1,0 +1,11 @@
+Package: staticfarm-apache-handlers
+Version: 1.1.3
+Architecture: all
+Maintainer: Paul Buetow <paul@buetow.org>
+Installed-Size: 62
+Depends: libapache2-mod-perl2, libjson-perl, libfile-mimeinfo-perl
+Section: utils
+Priority: optional
+Homepage: http://github.com/rantanplan/staticfarm-apache-handlers
+Description: Apache Handlers for a Static Content Farm
+ This are just mod_perl2 Handlers for a  Static Content Farm.

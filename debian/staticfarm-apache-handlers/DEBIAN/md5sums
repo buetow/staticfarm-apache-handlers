@@ -1,0 +1,5 @@
+5998f5eb5bab0e50b625d884d2b31929  usr/share/doc/staticfarm-apache-handlers/changelog.gz
+e375479dfe40b9fe67881f51b49bfdb4  usr/share/doc/staticfarm-apache-handlers/copyright
+0b8797a0c3782136204d6e18a7e80812  usr/share/man/man1/staticfarm-apache-handlers.1.gz
+ecacc92d2225456d311f4e1ab8ce64b2  usr/share/staticfarm/apache/handlers/StaticFarm/API.pm
+db8852dd8765940e8e8eceac0313d49d  usr/share/staticfarm/apache/handlers/StaticFarm/CacheControl.pm

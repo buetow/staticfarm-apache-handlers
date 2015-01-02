@@ -1,0 +1,7 @@
+=head1 NAME
+
+staticfarm-apache-handlers 
+
+=head1 WTF?
+
+This just includes a few mod_perl2 handlers to include into an Apache2. 

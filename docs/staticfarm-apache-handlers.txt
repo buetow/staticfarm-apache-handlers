@@ -1,0 +1,6 @@
+NAME
+    staticfarm-apache-handlers
+
+WTF?
+    This just includes a few mod_perl2 handlers to include into an Apache2.
+
