@@ -6,6 +6,6 @@ Installed-Size: 62
 Depends: libapache2-mod-perl2, libjson-perl, libfile-mimeinfo-perl
 Section: utils
 Priority: optional
-Homepage: http://github.com/rantanplan/staticfarm-apache-handlers
+Homepage: http://github.com/buetow/staticfarm-apache-handlers
 Description: Apache Handlers for a Static Content Farm
  This are just mod_perl2 Handlers for a  Static Content Farm.

@@ -4,9 +4,9 @@ Priority: optional
 Maintainer: Paul Buetow <paul@buetow.org>
 Build-Depends: 
 Standards-Version: 3.9.2
-Homepage: http://github.com/rantanplan/staticfarm-apache-handlers
-Vcs-Git: https://github.com/rantanplan/staticfarm-apache-handlers
-Vcs-Browser: https://github.com/rantanplan/staticfarm-apache-handlers
+Homepage: http://github.com/buetow/staticfarm-apache-handlers
+Vcs-Git: https://github.com/buetow/staticfarm-apache-handlers
+Vcs-Browser: https://github.com/buetow/staticfarm-apache-handlers
 
 Package: staticfarm-apache-handlers
 Architecture: all
